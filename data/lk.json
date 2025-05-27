@@ -6,7 +6,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -37,7 +37,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -72,7 +72,7 @@
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -104,7 +104,7 @@
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -131,7 +131,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -187,7 +187,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -229,7 +229,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -266,7 +266,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -311,7 +311,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -349,7 +349,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -376,7 +376,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -405,7 +405,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -433,7 +433,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -460,7 +460,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -483,7 +483,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -507,7 +507,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -561,7 +561,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -649,7 +649,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -693,7 +693,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -717,7 +717,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -742,7 +742,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -787,7 +787,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -864,7 +864,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -898,7 +898,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -925,7 +925,7 @@
 					"LKCV_TWR",
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -956,7 +956,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1005,7 +1005,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1033,7 +1033,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1068,7 +1068,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1098,7 +1098,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -1138,7 +1137,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -1178,7 +1176,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -1218,7 +1215,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -1260,7 +1256,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1301,7 +1296,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1342,7 +1336,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1383,7 +1376,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1426,7 +1418,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1489,7 +1480,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1552,7 +1542,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1615,7 +1604,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -1679,7 +1667,7 @@
 				"owner":[
 					"LKKU_TWR",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -1729,7 +1717,7 @@
 				"owner":[
 					"LKKV_TWR",
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -1766,7 +1754,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -1795,7 +1783,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -1819,7 +1807,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR"
 				],
@@ -1847,7 +1835,7 @@
 				"owner":[
 					"LKMT_TWR",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1899,7 +1887,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1955,7 +1943,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -1980,7 +1968,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2011,7 +1999,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2040,7 +2028,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2069,7 +2057,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2107,7 +2095,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2132,7 +2120,7 @@
 					"LKNA_TWR",
 					"LKNA_APP",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -2161,7 +2149,7 @@
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -2192,7 +2180,7 @@
 				"owner":[
 					"LKNA_APP",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -2221,7 +2209,7 @@
 					"LKPD_TWR",
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2248,7 +2236,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2280,7 +2268,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2309,7 +2297,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -2333,7 +2321,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -4582,7 +4570,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -4610,7 +4598,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -5038,7 +5026,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -6961,7 +6949,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
@@ -6988,7 +6976,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
@@ -7594,7 +7582,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_APP"
@@ -9732,7 +9720,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -9760,7 +9748,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -10209,7 +10197,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -12559,7 +12547,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -12587,7 +12575,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -13111,7 +13099,7 @@
 				"group":"APP",
 				"owner":[
 					"LKKV_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_W_CTR",
 					"LKAA_CTR",
 					"LKPR_DEP",
@@ -13300,7 +13288,7 @@
 				"owner":[
 					"LKTB_TWR",
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13352,7 +13340,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13394,7 +13382,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13431,7 +13419,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13462,7 +13450,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13489,7 +13477,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13518,7 +13506,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13546,7 +13534,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13573,7 +13561,7 @@
 				"group":"APP",
 				"owner":[
 					"LKTB_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_S_CTR",
 					"LKAA_CTR"
 				],
@@ -13598,7 +13586,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13628,8 +13615,7 @@
 				"remark":"LKVO_CTR_06-12",
 				"group":"TWR",
 				"owner":[
-					"LKVO_TWR",
-					"LKKB_TWR",
+					"LKVO_TWR",,
 					"LKPR_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
@@ -13660,7 +13646,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -13691,7 +13676,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
@@ -13724,7 +13708,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13782,7 +13765,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13840,7 +13822,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13898,7 +13879,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13958,7 +13938,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -13989,7 +13968,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -14020,7 +13998,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -14051,7 +14028,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKVO_TWR",
-					"LKKB_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -14709,7 +14685,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14747,7 +14723,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14781,7 +14757,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14841,7 +14817,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14871,7 +14847,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14895,7 +14871,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14926,7 +14902,7 @@
 				"owner":[
 					"LKCV_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -14958,7 +14934,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15017,7 +14993,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15042,7 +15018,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15073,7 +15049,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15102,7 +15078,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15131,7 +15107,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15169,7 +15145,7 @@
 				"group":"APP",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15193,7 +15169,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15225,7 +15201,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15254,7 +15230,7 @@
 				"owner":[
 					"LKPD_APP",
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15277,7 +15253,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15328,7 +15304,7 @@
 				"group":"ACC",
 				"owner":[
 					"LKMT_APP",
-					"LKAA_APP",
+					"LKAA_R_CTR",
 					"LKAA_N_CTR",
 					"LKAA_CTR"
 				],
@@ -15417,7 +15393,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -15480,7 +15455,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_DEP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -15543,7 +15517,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -15606,7 +15579,6 @@
 				"group":"TWR",
 				"owner":[
 					"LKKB_TWR",
-					"LKVO_TWR",
 					"LKPR_D_APP",
 					"LKPR_APP",
 					"LKAA_CTR"
@@ -15926,8 +15898,8 @@
 				"remark":"SM",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_S_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -15999,8 +15971,8 @@
 				"remark":"SH",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_S_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16072,8 +16044,8 @@
 				"remark":"ST",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_S_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16393,8 +16365,8 @@
 				"remark":"WM",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_W_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16440,8 +16412,8 @@
 				"remark":"WH",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_W_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16487,8 +16459,8 @@
 				"remark":"WT",
 				"group":"ACC",
 				"owner":[
-					"LKAA_U_CTR",
 					"LKAA_W_CTR",
+					"LKAA_U_CTR",
 					"LKAA_CTR",
 					"fss/EUCEN"
 				],
@@ -16537,13 +16509,13 @@
 		"TWR":{"name":"Tower"}
 	},
 	"positions":{
-		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "118.375", "callsign": "Praha Radar"},
+		"LKAA_CTR": {"colours": [{"hex": "#bf9000"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
 		"LKAA_I_CTR": {"colours": [{"hex": "#ffbf00"}], "pre": ["LKAA"], "type": "CTR", "frequency": "126.100", "callsign": "Praha Information"},
 		"LKAA_N_CTR": {"colours": [{"hex": "#6495ed"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.825", "callsign": "Praha Radar"},
-		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "127.125", "callsign": "Praha Radar"},
+		"LKAA_S_CTR": {"colours": [{"hex": "#40E0D0"}], "pre": ["LKAA"], "type": "CTR", "frequency": "133.410", "callsign": "Praha Radar"},
 		"LKAA_U_CTR": {"colours": [{"hex": "#6fa8dc"}], "pre": ["LKAA"], "type": "CTR", "frequency": "124.775", "callsign": "Praha Radar"},
 		"LKAA_W_CTR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKAA"], "type": "CTR", "frequency": "120.275", "callsign": "Praha Radar"},
-		"LKAA_APP": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "APP", "frequency": "125.380", "callsign": "Praha Radar"},
+		"LKAA_R_CTR": {"colours": [{"hex": "#008080"}], "pre": ["LKAA"], "type": "CTR", "frequency": "125.380", "callsign": "Praha Radar"},
 		"LKCV_APP": {"colours": [{"hex": "#247513"}], "pre": ["LKCV"], "type": "APP", "frequency": "130.280", "callsign": "Čáslav Approach"},
 		"LKCV_TWR": {"colours": [{"hex": "#ff4f50"}], "pre": ["LKCV"], "type": "TWR", "frequency": "134.205", "callsign": "Čáslav Tower"},
 		"LKKB_TWR": {"colours": [{"hex": "#990000"}], "pre": ["LKKB"], "type": "TWR", "frequency": "120.880", "callsign": "Kbely Tower"},
@@ -16608,7 +16580,7 @@
 			"topdown": [
 				"LKCV_APP",
 				"LKMT_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_N_CTR",
 				"LKAA_CTR"
 			]
@@ -16629,7 +16601,7 @@
 			"coord": [49.02944389, 17.43972194],
 			"topdown": [
 				"LKTB_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_S_CTR",
 				"LKAA_CTR"
 			]
@@ -16639,7 +16611,7 @@
 			"coord": [50.20305583, 12.91499972],
 			"topdown": [
 				"LKKV_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_W_CTR",
 				"LKAA_CTR"
 			]
@@ -16649,7 +16621,7 @@
 			"coord": [49.69611083, 18.11083278],
 			"topdown": [
 				"LKMT_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_N_CTR",
 				"LKAA_CTR"
 			]
@@ -16660,7 +16632,7 @@
 			"topdown": [
 				"LKNA_APP",
 				"LKTB_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_S_CTR",
 				"LKAA_CTR"
 			]
@@ -16671,7 +16643,7 @@
 			"topdown": [
 				"LKPD_APP",
 				"LKMT_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_N_CTR",
 				"LKAA_CTR"
 			]
@@ -16681,7 +16653,7 @@
 			"coord": [49.15138889, 16.69388889],
 			"topdown": [
 				"LKTB_APP",
-				"LKAA_APP",
+				"LKAA_R_CTR",
 				"LKAA_S_CTR",
 				"LKAA_CTR"
 			]
